@@ -9,7 +9,7 @@ You can see the example in [https://nextjs-quickstart.now.sh/](https://nextjs-qu
 ```
 $ git clone https://github.com/guilouro/simple-nextjs-quick-start.git
 
-$ yarn install
+$ yarn install.
 ```
 
 ### 🔨 How to use
